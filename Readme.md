@@ -13,9 +13,7 @@
 演示地址：[https://jiudian.gitapp.cn](https://jiudian.gitapp.cn)
 
 
-## 源码下载
 
-https://github.com/geeeeeeeek/python_jiudian
 
 
 ## 主要功能
